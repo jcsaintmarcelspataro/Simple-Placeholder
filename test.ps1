@@ -1,1 +1,3 @@
-write-host "toto"
+$message = "toto"
+
+write-host $message
